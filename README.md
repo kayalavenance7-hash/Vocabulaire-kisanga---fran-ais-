@@ -22,7 +22,9 @@ d’explication.
 gras, et précédé du signe -. la racine du mot : puis, en
 italiques grasses, le mot lui-même composé du radical et
 du préfixe quand il y en a un : préfixe singulier pour les
-substantifs, le préfixe pluriel figurant à la suite du mot,
+substantifs, le préfixe pluriel figurant à la suite du[VOCABULAIRE KISANGA-FRANÇAIS-1950.pdf](https://github.com/user-attachments/files/24319567/VOCABULAIRE.KISANGA-FRANCAIS-1950.pdf)
+[VOCABULAIRE KISANGA-FRANÇAIS-1950.pdf](https://github.com/user-attachments/files/24319561/VOCABULAIRE.KISANGA-FRANCAIS-1950.pdf)
+ mot,
 entre parenthèses. Viennent ensuite, dans le même article,
 tous les composés et dérivés de la racine et du mot initiais (les principaux, tout au moins, car il n'a pas été
 possible de ramasser dans les limites d’un simple vocabulaire toutes les richesses de la langue). Cette disposition,
